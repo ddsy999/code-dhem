@@ -1,0 +1,25 @@
+# R project files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# R outputs
+*.Rout
+*.rda
+*.rds
+
+# knitr / rmarkdown
+*_cache/
+*_files/
+*.knit.md
+*.utf8.md
+
+# packrat / renv
+packrat/lib*/
+packrat/src/
+renv/library/
+renv/staging/
+
+# logs
+progress.log
